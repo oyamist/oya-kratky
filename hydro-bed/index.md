@@ -6,8 +6,8 @@ shields the buckets from the heat of direct sun. The raised bed is up and
 away from slugs and snails. The extra height also helps with pruning and
 harvesting.
 
-<a href="https://raw.githubusercontent.com/oyamist/oya-3d/master/hydro-bed/img/planter-web.jpg">
-  <img src="https://raw.githubusercontent.com/oyamist/oya-3d/master/hydro-bed/img/planter-web.jpg" height=300px/></a>
+<a href="https://raw.githubusercontent.com/oyamist/oya-kratky/master/hydro-bed/img/planter-web.jpg">
+  <img src="https://raw.githubusercontent.com/oyamist/oya-kratky/master/hydro-bed/img/planter-web.jpg" height=300px/></a>
 
 
 ### Purchase
